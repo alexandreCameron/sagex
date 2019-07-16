@@ -2,6 +2,19 @@
 
 ## Purpose
 
+Give elements on machine learning to participants of the SAGEX workshop (2019-07-30). 
+
+### Introduction
+
+Before viewing the notebook an introduction using scaling law in physics will help set the scenery to understand the value of machine learning solutions.
+
+
+### Tutorial
+
+Notebooks on the classic iris and titanic as well as an analysis to the physical properties of water will be used to make first step on the subject.
+
+### Plasticc
+
 Simple analysis of the PLAsTiCC Astronomical Classification dataset
 
 https://www.kaggle.com/c/PLAsTiCC-2018
@@ -10,6 +23,16 @@ https://www.kaggle.com/c/PLAsTiCC-2018
 This code will not to win the competition (already over). 
 
 The aim is to show different data science analysis.
+
+## Mininal requirement to run the project
+
+You should have python3, pip3 and jupyter notebook install locally on your machine.
+
+The other packages will be installed on a virtual environment to avoid conflict in the packages.
+
+## ! WARNING: do **not** uninstall python on linux !
+
+Be very carefull when uninstalling python on a linux machine. The linux kernel uses python. Uninstalling python can render you machine unusable.
 
 
 ## Configure virtual environment
@@ -41,3 +64,5 @@ python3 -m ipykernel install --user --name venv3_plasticc --display-name "plasti
 ## Reference
 
 1. Virtual environment: https://ipython.readthedocs.io/en/stable/install/kernel_install.html
+2. Python 3.6: https://www.python.org/downloads/release/python-368/
+3. Jupyter notebook: https://jupyter.org/install
