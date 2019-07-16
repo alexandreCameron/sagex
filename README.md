@@ -61,8 +61,22 @@ pip3 install -r requirements.txt
 python3 -m ipykernel install --user --name venv3_plasticc --display-name "plasticc"
 ```
 
+## Download the repository (git or zip)
+
+1. git: you can git clone the repo (see 5. to install)
+
+```
+git clone git@github.com:alexandreCameron/sagex.git
+```
+
+2. zip: if you are not familiar with git you can download a zip archive
+
+![Alt text](notes/download_repo.png?raw=true "Download repo")
+
 ## Reference
 
 1. Virtual environment: https://ipython.readthedocs.io/en/stable/install/kernel_install.html
 2. Python 3.6: https://www.python.org/downloads/release/python-368/
 3. Jupyter notebook: https://jupyter.org/install
+4. Git: https://git-scm.com/
+5. Git install tutorial: https://www.atlassian.com/git/tutorials/install-git
