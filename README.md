@@ -71,7 +71,7 @@ git clone git@github.com:alexandreCameron/sagex.git
 
 2. zip: if you are not familiar with git you can download a zip archive
 
-![Alt text](notes/download_repo.png?raw=true "Download repo")
+![Alt text](src/download_repo.png?raw=true "Download repo")
 
 ## Reference
 
