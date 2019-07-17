@@ -1,0 +1,90 @@
+col1,col2,cat1,ID,Claim,License_Seniority,Name,Sex,Age,Vehicule_Age,Combustible_Type,Car_Model,Insurance_Premium,Policy_Type,Prof_Type,Claim_Amount
+44.0,26.55,Gasoline,604,Claim,0-2yrs,"Homer, Mr. Harry (""Mr E Haven"")",male,44.0,9,Gasoline,Sports_Car,26.55,,C,968.999179543
+44.0,8.05,Gasoline,614,No_Claim,>5yrs,"Brocklebank, Mr. William Alfred",male,44.0,0,Gasoline,Sports_Car,8.05,,S,0.0
+,69.55,Ethanol,846,No_Claim,>5yrs,"Sage, Mr. Douglas Bullen",male,,12,Ethanol,Sedan,69.55,,S,0.0
+,7.7333,Gasoline,629,No_Claim,>5yrs,"O'Connell, Mr. Patrick D",male,,6,Gasoline,Sports_Car,7.7333,,Q,0.0
+,79.2,Gasoline,256,Claim,0-2yrs,"Thorne, Mrs. Gertrude Maybelle",female,,11,Gasoline,Sports_Car,79.2,,C,615.767699849
+32.0,7.8542,Gasoline,640,No_Claim,>5yrs,"Jensen, Mr. Hans Peder",male,32.0,3,Gasoline,Compact,7.8542,,S,0.0
+32.0,8.05,Gasoline,372,No_Claim,>5yrs,"Beavan, Mr. William Thomas",male,32.0,11,Gasoline,Compact,8.05,,S,0.0
+65.0,9.5875,Gasoline,483,Claim,>5yrs,"Turkula, Mrs. (Hedwig)",female,65.0,14,Gasoline,Truck,9.5875,,S,456.688905721
+33.0,10.5,Gasoline,56,Claim,2-5yrs,"Rugg, Miss. Emily",female,33.0,0,Gasoline,Compact,10.5,,S,841.473094138
+51.0,164.8667,Diesel,856,Claim,0-2yrs,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,51.0,3,Diesel,Truck,164.8667,,S,503.115240048
+44.0,71.0,Ethanol,540,Claim,0-2yrs,"Crosby, Miss. Harriet R",female,44.0,3,Ethanol,Truck,71.0,B22,S,741.984530126
+38.0,10.5,Gasoline,883,No_Claim,2-5yrs,"Banfield, Mr. Frederick James",male,38.0,13,Gasoline,Truck,10.5,,S,0.0
+37.0,7.8542,Gasoline,315,Claim,>5yrs,"Nilsson, Miss. Helmina Josefina",female,37.0,6,Gasoline,Truck,7.8542,,S,708.581685848
+,25.4667,Diesel,485,No_Claim,>5yrs,"Lefebre, Miss. Jeannie",female,,11,Diesel,Sedan,25.4667,,S,0.0
+46.0,7.8958,Gasoline,108,No_Claim,>5yrs,"Rekic, Mr. Tido",male,46.0,11,Gasoline,Jeep,7.8958,,S,0.0
+35.0,13.0,Gasoline,734,No_Claim,2-5yrs,"Troupiansky, Mr. Moses Aaron",male,35.0,10,Gasoline,Compact,13.0,,S,0.0
+44.0,0.0,Gasoline,179,No_Claim,>5yrs,"Leonard, Mr. Lionel",male,44.0,1,Gasoline,Sedan,0.0,,S,0.0
+37.0,7.8542,Gasoline,315,Claim,>5yrs,"Nilsson, Miss. Helmina Josefina",female,37.0,6,Gasoline,Truck,7.8542,,S,708.581685848
+44.0,53.1,Gasoline,3,Claim,0-2yrs,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,44.0,11,Gasoline,Compact,53.1,C123,S,600.476662432
+,7.25,Gasoline,425,No_Claim,>5yrs,"Wiseman, Mr. Phillippe",male,,6,Gasoline,Truck,7.25,,S,0.0
+42.0,90.0,Gasoline,412,Claim,0-2yrs,"Minahan, Miss. Daisy E",female,42.0,12,Gasoline,Compact,90.0,C78,Q,996.698614706
+33.0,77.2875,Diesel,102,No_Claim,0-2yrs,"White, Mr. Richard Frasar",male,33.0,0,Diesel,Compact,77.2875,D26,S,0.0
+38.0,7.7958,Gasoline,146,Claim,>5yrs,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,38.0,9,Gasoline,Truck,7.7958,,S,580.482761682
+39.0,7.875,Gasoline,422,No_Claim,>5yrs,"Zimmerman, Mr. Leo",male,39.0,0,Gasoline,Truck,7.875,,S,0.0
+36.0,55.4417,Gasoline,370,Claim,0-2yrs,"Harder, Mr. George Achilles",male,36.0,8,Gasoline,Jeep,55.4417,E50,C,426.689271789
+47.0,13.0,Gasoline,346,Claim,2-5yrs,"Smith, Miss. Marion Elsie",female,47.0,11,Gasoline,Jeep,13.0,,S,635.334243389
+32.0,7.8958,Gasoline,877,No_Claim,>5yrs,"Petroff, Mr. Nedelio",male,32.0,4,Gasoline,Sports_Car,7.8958,,S,0.0
+33.0,7.7333,Gasoline,421,No_Claim,>5yrs,"Charters, Mr. David",male,33.0,10,Gasoline,Sports_Car,7.7333,,Q,0.0
+36.0,26.0,Diesel,880,Claim,2-5yrs,"Shelley, Mrs. William (Imanita Parrish Hall)",female,36.0,2,Diesel,Compact,26.0,,S,96.2230306324
+37.0,56.4958,Gasoline,509,Claim,>5yrs,"Lang, Mr. Fang",male,37.0,12,Gasoline,Sedan,56.4958,,S,131.332660478
+21.0,19.2583,Diesel,448,Claim,>5yrs,"Baclini, Miss. Marie Catherine",female,21.0,1,Diesel,Sports_Car,19.2583,,C,79.6523808723
+33.0,77.9583,Gasoline,627,Claim,0-2yrs,"Longley, Miss. Gretchen Fiske",female,33.0,6,Gasoline,Truck,77.9583,D9,S,598.083580925
+42.0,9.5,Gasoline,752,No_Claim,>5yrs,"Vande Velde, Mr. Johannes Joseph",male,42.0,9,Gasoline,Jeep,9.5,,S,0.0
+39.0,26.0,Gasoline,133,Claim,2-5yrs,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,39.0,6,Gasoline,Jeep,26.0,,S,824.55634798
+50.0,7.925,Gasoline,414,Claim,>5yrs,"Sundman, Mr. Johan Julian",male,50.0,5,Gasoline,Jeep,7.925,,S,381.806125234
+56.0,77.9583,Gasoline,765,Claim,0-2yrs,"Hogeboom, Mrs. John C (Anna Andrews)",female,56.0,10,Gasoline,Truck,77.9583,D11,S,215.121306541
+35.0,69.3,Gasoline,641,Claim,0-2yrs,"Sagesser, Mlle. Emma",female,35.0,1,Gasoline,Truck,69.3,B35,C,780.052946354
+55.0,247.5208,Diesel,299,Claim,0-2yrs,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,55.0,7,Diesel,Sedan,247.5208,B58 B60,C,536.430652027
+,23.45,Ethanol,783,No_Claim,>5yrs,"Johnston, Mr. Andrew G",male,,0,Ethanol,Sports_Car,23.45,,S,0.0
+32.0,26.2833,Ethanol,136,Claim,0-2yrs,"Newsom, Miss. Helen Monypeny",female,32.0,4,Ethanol,Sports_Car,26.2833,D47,S,111.264138636
+59.0,30.6958,Gasoline,174,No_Claim,0-2yrs,"Smith, Mr. James Clinch",male,59.0,3,Gasoline,Compact,30.6958,A7,C,0.0
+66.0,61.9792,Diesel,54,No_Claim,0-2yrs,"Ostby, Mr. Engelhart Cornelius",male,66.0,3,Diesel,Sports_Car,61.9792,B30,C,0.0
+44.0,26.3875,Gasoline,572,Claim,0-2yrs,"Flynn, Mr. John Irwin (""Irving"")",male,44.0,8,Gasoline,Compact,26.3875,E25,S,916.782348794
+29.0,10.5,Gasoline,841,No_Claim,2-5yrs,"Mudd, Mr. Thomas Charles",male,29.0,9,Gasoline,Truck,10.5,,S,0.0
+32.0,9.825,Gasoline,113,No_Claim,>5yrs,"Jussila, Miss. Katriina",female,32.0,6,Gasoline,Jeep,9.825,,S,0.0
+48.0,20.2125,Ethanol,254,No_Claim,>5yrs,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,48.0,4,Ethanol,Compact,20.2125,,S,0.0
+31.0,227.525,Gasoline,700,Claim,0-2yrs,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,31.0,7,Gasoline,Sports_Car,227.525,C62 C64,C,216.404654281
+47.0,31.275,Gasoline+Ethanol,610,No_Claim,>5yrs,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,47.0,5,Gasoline+Ethanol,Truck,31.275,,S,0.0
+31.0,227.525,Gasoline,700,Claim,0-2yrs,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,31.0,7,Gasoline,Sports_Car,227.525,C62 C64,C,216.404654281
+40.0,7.225,Gasoline,244,No_Claim,>5yrs,"Attalah, Mr. Sleiman",male,40.0,10,Gasoline,Jeep,7.225,,C,0.0
+,16.1,Gasoline,639,No_Claim,>5yrs,"Thorneycroft, Mr. Percival",male,,1,Gasoline,Truck,16.1,,S,0.0
+53.0,52.0,Gasoline,110,No_Claim,0-2yrs,"Porter, Mr. Walter Chamberlain",male,53.0,6,Gasoline,Jeep,52.0,C110,S,0.0
+,0.0,Gasoline,413,No_Claim,2-5yrs,"Cunningham, Mr. Alfred Fleming",male,,10,Gasoline,Truck,0.0,,S,0.0
+41.0,76.2917,Gasoline,218,Claim,0-2yrs,"Bazzani, Miss. Albina",female,41.0,7,Gasoline,Jeep,76.2917,D15,C,955.026860636
+29.0,10.5,Gasoline,841,No_Claim,2-5yrs,"Mudd, Mr. Thomas Charles",male,29.0,9,Gasoline,Truck,10.5,,S,0.0
+37.0,10.5,Gasoline,619,No_Claim,2-5yrs,"Gavey, Mr. Lawrence",male,37.0,4,Gasoline,Sedan,10.5,,S,0.0
+29.0,26.0,Gasoline,791,No_Claim,2-5yrs,"Gaskell, Mr. Alfred",male,29.0,6,Gasoline,Truck,26.0,,S,0.0
+50.0,26.25,Diesel,314,No_Claim,2-5yrs,"Hart, Mr. Benjamin",male,50.0,7,Diesel,Truck,26.25,,S,0.0
+41.0,26.0,Gasoline,543,Claim,2-5yrs,"Beane, Mr. Edward",male,41.0,12,Gasoline,Jeep,26.0,,S,510.494168394
+43.0,6.4958,Gasoline,202,No_Claim,>5yrs,"Johanson, Mr. Jakob Alfred",male,43.0,4,Gasoline,Truck,6.4958,,S,0.0
+50.0,7.925,Gasoline,414,Claim,>5yrs,"Sundman, Mr. Johan Julian",male,50.0,5,Gasoline,Jeep,7.925,,S,381.806125234
+36.0,7.775,Gasoline,442,No_Claim,>5yrs,"Petterson, Mr. Johan Emil",male,36.0,1,Gasoline,Sports_Car,7.775,,S,0.0
+,227.525,Gasoline,557,No_Claim,0-2yrs,"Robbins, Mr. Victor",male,,3,Gasoline,Truck,227.525,,C,0.0
+51.0,6.975,Gasoline,129,No_Claim,>5yrs,"Ekstrom, Mr. Johan",male,51.0,5,Gasoline,Jeep,6.975,,S,0.0
+50.0,27.7208,Gasoline,194,Claim,0-2yrs,"Brown, Mrs. James Joseph (Margaret Tobin)",female,50.0,4,Gasoline,Compact,27.7208,B4,C,860.337841042
+18.0,20.575,Ethanol,788,Claim,>5yrs,"Dean, Master. Bertram Vere",male,18.0,13,Ethanol,Sports_Car,20.575,,S,759.414538642
+38.0,16.1,Gasoline,735,No_Claim,>5yrs,"Williams, Mr. Leslie",male,38.0,4,Gasoline,Jeep,16.1,,S,0.0
+59.0,8.05,Gasoline,152,No_Claim,>5yrs,"Meo, Mr. Alfonzo",male,59.0,11,Gasoline,Compact,8.05,,S,0.0
+,7.8958,Gasoline,410,No_Claim,>5yrs,"Sdycoff, Mr. Todor",male,,9,Gasoline,Jeep,7.8958,,S,0.0
+33.0,16.1,Gasoline,624,No_Claim,>5yrs,"Bowen, Mr. David John ""Dai""",male,33.0,3,Gasoline,Jeep,16.1,,S,0.0
+,7.7333,Gasoline,629,No_Claim,>5yrs,"O'Connell, Mr. Patrick D",male,,6,Gasoline,Sports_Car,7.7333,,Q,0.0
+56.0,8.05,Gasoline,222,No_Claim,>5yrs,"Green, Mr. George Henry",male,56.0,4,Gasoline,Sedan,8.05,,S,0.0
+32.0,263.0,Ethanol,27,No_Claim,0-2yrs,"Fortune, Mr. Charles Alexander",male,32.0,0,Ethanol,Sports_Car,263.0,C23 C25 C27,S,0.0
+,7.75,Gasoline,613,No_Claim,>5yrs,"Horgan, Mr. John",male,,8,Gasoline,Sports_Car,7.75,,Q,0.0
+26.0,46.9,Ethanol,59,No_Claim,>5yrs,"Goodwin, Master. William Frederick",male,26.0,14,Ethanol,Truck,46.9,,S,0.0
+49.0,8.6625,Gasoline,349,No_Claim,>5yrs,"Dimic, Mr. Jovan",male,49.0,6,Gasoline,Sedan,8.6625,,S,0.0
+38.0,211.5,Ethanol,377,No_Claim,0-2yrs,"Widener, Mr. Harry Elkins",male,38.0,7,Ethanol,Sports_Car,211.5,C82,C,0.0
+18.0,20.575,Ethanol,788,Claim,>5yrs,"Dean, Master. Bertram Vere",male,18.0,13,Ethanol,Sports_Car,20.575,,S,759.414538642
+32.0,7.8792,Gasoline,44,Claim,>5yrs,"Devaney, Miss. Margaret Delia",female,32.0,4,Gasoline,Sports_Car,7.8792,,Q,865.15502163
+,24.15,Gasoline,768,No_Claim,>5yrs,"Moran, Mr. Daniel J",male,,11,Gasoline,Sports_Car,24.15,,Q,0.0
+32.0,7.8958,Gasoline,646,No_Claim,>5yrs,"Cor, Mr. Liudevit",male,32.0,3,Gasoline,Jeep,7.8958,,S,0.0
+,26.55,Gasoline,711,No_Claim,0-2yrs,"Klaber, Mr. Herman",male,,14,Gasoline,Jeep,26.55,C124,S,0.0
+41.0,7.8958,Gasoline,519,No_Claim,>5yrs,"Pavlovic, Mr. Stefo",male,41.0,12,Gasoline,Jeep,7.8958,,S,0.0
+44.0,13.0,Gasoline,327,Claim,2-5yrs,"Ball, Mrs. (Ada E Hall)",female,44.0,7,Gasoline,Sedan,13.0,D,S,682.639822064
+41.0,7.925,Gasoline,636,No_Claim,>5yrs,"Leinonen, Mr. Antti Gustaf",male,41.0,8,Gasoline,Compact,7.925,,S,0.0
+43.0,13.0,Gasoline,576,Claim,2-5yrs,"Garside, Miss. Ethel",female,43.0,8,Gasoline,Compact,13.0,,S,930.859424963
+34.0,7.225,Gasoline,553,Claim,>5yrs,"Leeni, Mr. Fahim (""Philip Zenni"")",male,34.0,7,Gasoline,Truck,7.225,,C,52.1571927679
+32.0,7.8542,Gasoline,91,No_Claim,>5yrs,"Andreasson, Mr. Paul Edvin",male,32.0,13,Gasoline,Sedan,7.8542,,S,0.0
+43.0,26.55,Gasoline,447,Claim,0-2yrs,"Seward, Mr. Frederic Kimber",male,43.0,3,Gasoline,Sedan,26.55,,S,278.895856228
