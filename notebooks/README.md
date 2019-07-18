@@ -1,5 +1,3 @@
-# README.md
-
 # What is in this folder ?
 
 1. python tutorial on pandas package
