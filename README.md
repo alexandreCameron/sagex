@@ -9,7 +9,11 @@ Give elements on machine learning to participants of the SAGEX workshop (2019-07
 Before viewing the notebook an introduction using scaling law in physics will help set the scenery to understand the value of machine learning solutions.
 
 
-### Tutorial
+### Tutorials
+
+A few tutorials can be found in `notebooks/`, they explain basic notion in python.
+
+### Basic machine learning
 
 Notebooks on the classic iris and titanic as well as an analysis to the physical properties of water will be used to make first step on the subject.
 
