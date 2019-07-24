@@ -14,6 +14,16 @@
 
 4. https://realpython.com/
 
+5. Numpy: https://docs.scipy.org/doc/numpy/user/quickstart.html
+
+6. https://medium.com/@numanyilmaz61/numpy-in-50-cells-of-notebook-384f166163f6
+
+7. https://datascientistnotebook.com/numpy/
+
+8. https://ipgp.github.io/scientific_python_cheat_sheet/
+
+9. Scipy: http://cs231n.github.io/python-numpy-tutorial/
+
 
 ## Pandas references
 
