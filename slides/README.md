@@ -1,6 +1,12 @@
-# Where can I find the presentations ?
+# Description
 
-Folder of sharepoint presentations:
+The slides of the presentation of the 30th of July SAGEX workshop can be found in this folder.
 
-https://dreamquark.sharepoint.com/sites/projects/Documents%20partages/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fprojects%2FDocuments%20partages%2FProcess%20et%20admin%2FOutils%5Fprojets%2Fsagex
+For more information please contact:
+
+alexandre.cameron@dreamquark.com
+
+or
+
+jeremie.abiteboul@dreamquark.com
 

@@ -4,3 +4,4 @@ venv*
 **catboost_info*
 data/PLAsTiCC-2018*
 slides/back_up/*
+notebooks/back_up/*
